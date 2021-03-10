@@ -3,4 +3,12 @@
 
 #include <iostream>
 
+class CFeature {
+  public:
+    CFeateure();
+    fnDisplay();
+  private:
+    m_data;
+};
+
 #endif
