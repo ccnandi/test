@@ -5,6 +5,7 @@
 
 class CFeature {
   public:
+    CFeateure();
     fnDisplay();
   private:
     m_data;
