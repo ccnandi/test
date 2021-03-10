@@ -3,6 +3,9 @@
 
 #include <iostream>
 
+// Added class CFeature
+// Test class
+
 class CFeature {
   public:
     CFeateure();
